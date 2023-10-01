@@ -8,9 +8,5 @@
       </list>
     </option>
   </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="corretto-1.8" />
-    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
-  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK" />
 </project>
