@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.CalcTest" time="0.008" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\159251\week6lab\tutorial4\target\test-classes;E:\159251\week6lab\tutorial4\target\classes;E:\localRepository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;E:\localRepository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;E:\localRepository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;E:\localRepository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;E:\localRepository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;E:\localRepository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;E:\localRepository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;E:\localRepository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\jdk\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\王俊凯\AppData\Local\Temp\surefire5925056800056933201\surefirebooter8141377029728190503.jar C:\Users\王俊凯\AppData\Local\Temp\surefire5925056800056933201 2023-10-01T09-02-27_298-jvmRun1 surefire3256911263900301766tmp surefire_04355649562608249785tmp"/>
+    <property name="surefire.test.class.path" value="E:\159251\week6lab\tutorial4\target\test-classes;E:\159251\week6lab\tutorial4\target\classes;E:\localRepository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;E:\localRepository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;E:\localRepository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;E:\localRepository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;E:\localRepository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;E:\localRepository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;E:\localRepository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;E:\localRepository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\王俊凯"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\jdk\jre"/>
+    <property name="basedir" value="E:\159251\week6lab\tutorial4"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\王俊凯\AppData\Local\Temp\surefire5925056800056933201\surefirebooter8141377029728190503.jar"/>
+    <property name="sun.boot.class.path" value="D:\jdk\jre\lib\resources.jar;D:\jdk\jre\lib\rt.jar;D:\jdk\jre\lib\sunrsasign.jar;D:\jdk\jre\lib\jsse.jar;D:\jdk\jre\lib\jce.jar;D:\jdk\jre\lib\charsets.jar;D:\jdk\jre\lib\jfr.jar;D:\jdk\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_382-b05"/>
+    <property name="user.name" value="王俊凯"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\jdk\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\localRepository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\王俊凯\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2023.1.4"/>
+    <property name="java.version" value="1.8.0_382"/>
+    <property name="user.dir" value="E:\159251\week6lab\tutorial4"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\jdk\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\java\javajdk\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\Program files\mingw64\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;E:\Program files\MinGW\bin;C:\Users\王俊凯\AppData\Local\Programs\Python\Python39\;C:\Users\王俊凯\AppData\Local\Microsoft\WindowsApps;C:\Users\王俊凯\AppData\Local\Programs\Microsoft VS Code\bin;E:\python\PyCharm 2022.1\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2021.3.4\bin;;D:\JetBrains\IntelliJ IDEA 2023.1.4\bin;;E:\maven\apache-maven-3.8.8\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="25.382-b05"/>
+    <property name="java.specification.maintenance.version" value="5"/>
+    <property name="java.ext.dirs" value="D:\jdk\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="E:\localRepository"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testAddition" classname="org.example.CalcTest" time="0.005"/>
+</testsuite>
